@@ -1,5 +1,4 @@
-# CSE360
-All projects for my CSE 360 class
+# cse360_helloworld
+This repository is to serve as CSE360 GitHub tutorial.
 
-
-Gabriel Kessler ;*)
+This is a change reflecting a commit done by Gabriel Kessler.
